@@ -12,8 +12,8 @@ Este projeto é um script que tem a função de fazer a instalação um ambiente
 
 Para utilização do script basta apenas abrir o terminal e executar o seguinte comando:
 
-*bash enviroment.sh*
-
+		bash enviroment.sh
+		
 Configuração do Arduíno IDE com desenvolvimento voltado para ESP32:
 
 1 - Abrir Arduíno IDE
@@ -26,17 +26,6 @@ Configuração do Arduíno IDE com desenvolvimento voltado para ESP32:
 
 		http://arduino.esp8266.com/stable/packge_esp8266com_index.json
 		https://dl.espressif.com/dl/package_esp32_index.json
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		bash enviroment.sh
 		
 5 - Clicar em "OK"
 
