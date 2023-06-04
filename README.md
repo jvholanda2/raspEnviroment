@@ -14,8 +14,8 @@ Configuração do Arduíno IDE com desenvolvimento voltado para ESP32:
 
 4 - No campo "URLs Adicionais para Gerenciadores de Placas" colar:
 
-		*http://arduino.esp8266.com/stable/packge_esp8266com_index.json*
-		*https://dl.espressif.com/dl/package_esp32_index.json*
+		http://arduino.esp8266.com/stable/packge_esp8266com_index.json
+		https://dl.espressif.com/dl/package_esp32_index.json
 		
 5 - Clicar em "OK"
 
