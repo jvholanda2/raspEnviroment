@@ -6,33 +6,37 @@ sudo apt-get upgrade
 
 #Instalando VSCode
 
-#echo "Iniciando a instalação do VSCode"
-#sudo rm -Rf /opt/vscode/*
-#sudo rm -Rf /opt/vscode/code
-#sudo rm -Rf /usr/share/applications/vscode.desktop
-#sudo apt update
-#sudo apt install code
-#code --version
-#echo "VSCode Instalado"
+echo "Iniciando a instalação do VSCode"
+sudo rm -Rf /opt/vscode/*
+sudo rm -Rf /opt/vscode/code
+sudo rm -Rf /usr/share/applications/vscode.desktop
+sudo apt update
+sudo apt install code
+code --version
+echo "VSCode Instalado"
 
 #Instalando Arduino IDE
 
-#echo "Iniciando a instalação do Arduino IDE"
-#sudo apt install arduino
-#arduino --version
-#echo "Arduino IDE Instalado"
+echo "Iniciando a instalação do Arduino IDE"
+sudo apt install arduino
+arduino --version
+echo "Arduino IDE Instalado"
 
-#Instalando Docker****
+#Instalando Docker
 
-#Instalando Samba
+echo "Iniciando a instalação do Docker"
+sudo apt install raspberrypi-kernel raspberrypi-kernel-headers
+curl -sSL https://get.docker.com | sh
+docker --version
+echo "Docker Instalado"
 
 #Instalando Git
 
-#echo "Iniciando a instalação do Git"
-#sudo apt update
-#sudo apt install git
-#git --version
-#echo "Git Instalado"
+echo "Iniciando a instalação do Git"
+sudo apt update
+sudo apt install git
+git --version
+echo "Git Instalado"
 
 echo "Instalações finalizadas. Seu ambiente está pronto!"
 
