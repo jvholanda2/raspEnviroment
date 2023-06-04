@@ -27,6 +27,17 @@ Configuração do Arduíno IDE com desenvolvimento voltado para ESP32:
 		http://arduino.esp8266.com/stable/packge_esp8266com_index.json
 		https://dl.espressif.com/dl/package_esp32_index.json
 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		bash enviroment.sh
+		
 5 - Clicar em "OK"
 
 OBS: As demais configurações ficam a critério do usuário.
