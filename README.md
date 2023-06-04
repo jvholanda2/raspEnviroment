@@ -1,4 +1,14 @@
 # raspEnviroment
+Este projeto é um script que tem a função de fazer a instalação um ambiente de programação utilizando sistema embarcado Lunix, possibilitando a criação de aplicações web e embarcadas. Instalando:
+
+-VSCODE
+
+-Arduíno IDE
+
+-Docker
+
+-Git
+
 
 Para utilização do script basta apenas abrir o terminal e executar o seguinte comando:
 
