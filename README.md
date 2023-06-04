@@ -1,5 +1,5 @@
 # raspEnviroment
-Este projeto é um script que tem a função de fazer a instalação um ambiente de programação utilizando sistema embarcado Linux, possibilitando a criação de aplicações web e embarcadas. Instalando:
+Este projeto é um script que tem a função de instalar um ambiente de programação utilizando sistema embarcado Linux, possibilitando a criação de aplicações web e embarcadas. Instalando:
 
 -VSCODE
 
